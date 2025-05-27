@@ -5,7 +5,7 @@
 - Maven 3.9 
 - MySQL 8
 
-# Technologies 
+# Technologies s
 - JAKARTA
 - Spring MVC
 - Spring Security
